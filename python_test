@@ -1,0 +1,6 @@
+#test python script
+a = "This is new repository"
+words =[]
+for i in a:
+  words.append(i)
+print(words)
